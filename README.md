@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Swarup Das
+#  Hi 👋, I'm Swarup Das
 **A passionate learner exploring Web Devlopment from India**
 
 Email Me 👉 ✉️ **swarupdas2046@gmail.com** For Collaboration/Project or Anything Else. 😊😊
