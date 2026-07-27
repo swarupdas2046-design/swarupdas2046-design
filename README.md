@@ -144,7 +144,7 @@ const profile = {
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarupdas2046-design&theme=nord&hide_border=true&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarupdas2046-design&theme=react-dark&hide_border=true&bg_color=0B1220&color=7DD3FC&line=7DD3FC&point=ffffff" width="100%" alt="Contribution Activity Graph" />
 </p>
 
 ---
