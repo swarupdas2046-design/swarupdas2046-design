@@ -121,11 +121,15 @@ const profile = {
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarupdas2046-design&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9&rank_icon=github" height="180" alt="Swarup's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarupdas2046-design&theme=tokyonight&hide_border=true&count_private=true&layout=compact&title_color=0ea5e9&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=swarupdas2046-design&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9&rank_icon=github" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=swarupdas2046-design&theme=tokyonight&hide_border=true&count_private=true&layout=compact&title_color=0ea5e9&langs_count=8" alt="Top Languages" />
 </p>
+
+
+
 
 ---
 
